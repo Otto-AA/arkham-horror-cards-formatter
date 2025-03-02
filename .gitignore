@@ -1,0 +1,8 @@
+*.pdf
+/*.txt
+/images/
+/rotated/
+/investigators/
+/done/
+/input/
+out/
